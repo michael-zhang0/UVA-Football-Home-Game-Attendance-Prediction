@@ -4,9 +4,9 @@ Fork this repository once for your team and use the fork as the single record of
 
 ## Project information
 
-- **Project title:** [Replace with your project title]
-- **Team members:** [Replace with names]
-- **Repository URL:** [Replace with the URL of your team's fork]
+- **Project title:** Predicting UVA Home Football Game Attendance Counts
+- **Team members:** Sihan Michael Zhang, Samuel Bromberg, Sam Nieto Beltran
+- **Repository URL:** https://github.com/michael-zhang0/UVA-Football-Home-Game-Attendance-Prediction
 
 ## Repository structure
 
